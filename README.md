@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <a href="https://chrome.google.com/webstore/detail/proxyswitcher/klmmonnflkapnimjpbcabghjjhalaphn">
-    <img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png" alt="Available on the Chrome Web Store" width="248">
+  <a href="https://chromewebstore.google.com/detail/proxyswitcher/klmmonnflkapnimjpbcabghjjhalaphn">
+    <img src="https://img.shields.io/badge/Install-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Install from Chrome Web Store">
   </a>
 </p>
 
@@ -77,23 +77,7 @@ Unlike basic proxy switchers, ProxySwitcher includes **auto-IP rotation**, **dev
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="store-assets/screenshot-1-popup.png" alt="ProxySwitcher Popup" width="400">
-  <br>
-  <em>One-click proxy switching with speed test and privacy controls</em>
-</p>
-
-<p align="center">
-  <img src="store-assets/screenshot-2-health-dashboard.png" alt="Health Dashboard" width="600">
-  <br>
-  <em>Monitor all your proxies at a glance</em>
-</p>
-
-<p align="center">
-  <img src="store-assets/screenshot-3-traffic-analytics.png" alt="Traffic Analytics" width="600">
-  <br>
-  <em>Track bandwidth and requests per proxy</em>
-</p>
+> 📷 See ProxySwitcher in action on the [Chrome Web Store listing](https://chromewebstore.google.com/detail/proxyswitcher/klmmonnflkapnimjpbcabghjjhalaphn)
 
 ---
 
@@ -224,8 +208,8 @@ ProxySwitcher is proprietary software. © 2026 Dwayne353. All rights reserved.
 ---
 
 <p align="center">
-  <a href="https://chrome.google.com/webstore/detail/proxyswitcher/klmmonnflkapnimjpbcabghjjhalaphn">
-    <img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png" alt="Available on the Chrome Web Store" width="248">
+  <a href="https://chromewebstore.google.com/detail/proxyswitcher/klmmonnflkapnimjpbcabghjjhalaphn">
+    <img src="https://img.shields.io/badge/Install-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Install from Chrome Web Store">
   </a>
 </p>
 
